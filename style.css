@@ -3,17 +3,5 @@ h1 {
   font-size: 100px;
   text-align: center;
   background-color: rgb(103, 158, 103);
-}
-h3 {
-  font-size: 20px;
-  text-align: center;
-  color: lightgreen;
-  background-color: seagreen;
-}
-#pina {
-  color: blue;
-  text-align: center;
-}
-#me {
-  color: darkgreen;
+  text-shadow: 3px 4px 10px green;
 }
