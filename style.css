@@ -1,27 +1,13 @@
-#antonio {
+#doritos {
   display: block;
+  filter: brightness(200%);
+}
+#capibara {
+  display: block;
+  filter: contrast(200%);
   margin-left: auto;
   margin-right: auto;
-  filter: drop-shadow(10px 10px red);
 }
-#anto {
+#c {
   text-align: center;
-}
-#nio {
-  text-align: center;
-}
-#cars {
-  display: block;
-  filter: drop-shadow(10px 10px yellow);
-}
-#peppa {
-  display: block;
-  filter: drop-shadow(10px 10px pink);
-  margin-left: auto;
-}
-#pig {
-  text-align: right;
-}
-#pepa {
-  text-align: right;
 }
